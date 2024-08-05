@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sedanur-ceylan-190702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sedanur-ceylan-190702" height="30" width="40" /></a>
 <a href="https://instagram.com/sedanur_ceylan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sedanur_ceylan_" height="30" width="40" /></a>
-<a href="https://medium.com/@sedanurceylan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sedanurceylan" height="30" width="40" /></a>
+<a href="https://medium.com/@sdnrcyln2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sedanurceylan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
