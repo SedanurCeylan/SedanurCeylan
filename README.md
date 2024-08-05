@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seda</h1>
-<h3 align="center">I am a Computer Engineer</h3>
+<h3 align="center">Computer Engineer</h3>
 
 - 🌱 I’m currently learning **Full-Stack Developer, Cyber Security, CTI, SOC**
 
