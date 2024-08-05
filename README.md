@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seda</h1>
-<h3 align="center">I graduated from Süleyman Demirel University Computer Engineering Department in June 2024.</h3>
+<h3 align="center">I nm a Computer Engineer</h3>
 
 - 🌱 I’m currently learning **Full-Stack Developer, Cyber Security, CTI, SOC**
 
